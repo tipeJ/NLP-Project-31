@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# ...except for these files
+!.gitignore
+!README.md
+!project31.ipynb
+!requirements.txt
+!config.py
